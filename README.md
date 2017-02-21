@@ -131,6 +131,18 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 
 If you want to set toothpaste as your default theme, select toothpaste from the list of Profiles and click on the 'Default' button close to the "gear" icon.
 
+## Slack
+
+![image](toothpaste_slack_screenshot.png)
+
+### Installation:
+
+1. Launch Slack or login to your team at [Slack.com](Slack.com)
+2. Click on your team name, and click Preferences
+3. Click **Sidebar Theme**, and paste in the following values: `#222E33,#465E68,#49483E,#DAE3E8,#465E68,#DAE3E8,#9DC777,#C5487A`
+
+Close your Slack preferences, and the theme will be applied to the Slack sidebar across all of your devices.
+
 ## Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
 - For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
