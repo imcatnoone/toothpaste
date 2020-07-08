@@ -165,6 +165,20 @@ If you want to set toothpaste as your default theme, select toothpaste from the 
 1. Open `~/.hyper.js` and find the `plugins` array near the bottom
 2. Add `'hyperpaste'` and save
 
+## MacDown
+
+![image](Screenshots/toothpaste_macdown_screenshot.png)
+
+### Installation:
+
+1. Launch MacDown.app
+2. Open Preferences
+3. Select the Themes tab
+3. Select Reveal
+4. Open `Themes` folder
+5. Find `Toothpaste+.style` on your file system and move it into the Themes folder
+6. Select Reload
+
 ## Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
 - For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
@@ -182,6 +196,7 @@ Toothpaste definitely could not have grown the way it continues to without the c
 - Dotan Nahum ([@jondot](https://twitter.com/jondot)) for recreating Toothpaste for Vim
 - Aalaap Ghag ([@aalaap](http://twitter.com/aalaap)) for porting Toothpaste over to Visual Studio Code
 - Ornithologist Coder  ([@OrnithoCoder](https://twitter.com/OrnithoCoder)) for porting Toothpaste over to macOS Terminal
+- Brad Rokosz ([@brokosz](https://twitter.com/brokosz)) for porting Toothpaste over to MacDown
 
 ## Contributing
 Want to recreate Toothpaste for an IDE that isn't listed? Exciting and the community loves you for it! Before you do, read these little tidbits about how to do so:
